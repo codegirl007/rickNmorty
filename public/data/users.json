@@ -1,0 +1,23 @@
+[
+	{
+		"name": "Richard",
+		"surname": "Sanchez",
+		"userName": "rick",
+		"password": "12345",
+		"token": "000-111"
+	},
+	{
+		"name": "Mortimer",
+		"surname": "Smith",
+		"userName": "morty",
+		"password": "00000",
+		"token": "000-222"
+	},
+	{
+		"name": "Jana",
+		"surname": "Koutníková",
+		"userName": "jana",
+		"password": "111",
+		"token": "000333"
+	}
+]
